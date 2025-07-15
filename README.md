@@ -1,7 +1,6 @@
 # BaridiMob App
 
-![BaridiMob App Logo](https://via.placeholder.com/150/003C71/F2CE34?text=BaridiMob) <!-- Optional: Replace with your actual app logo URL. This is a placeholder. -->
-![BaridiMob App Logo](https://via.placeholder.com/150/003C71/F2CE34?text=BaridiMob)
+
 BaridiMob is a modern mobile banking application designed to provide users with a seamless and intuitive experience for managing bank accounts, performing financial transfers, viewing activity history, and accessing a suite of essential banking services. Built with Flutter and GetX, this project focuses on delivering a clean, responsive, and efficient user interface for everyday banking operations.
 
 ## ✨ Features
