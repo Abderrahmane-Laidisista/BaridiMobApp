@@ -1,3 +1,20 @@
+# baridimob_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
 # BaridiMob App
 
 تطبيق BaridiMob هو تطبيق مصرفي عبر الهاتف المحمول مصمم لتقديم تجربة مستخدم سلسة وبديهية لإدارة الحسابات المصرفية، إجراء التحويلات المالية، وعرض سجل الأنشطة. يهدف هذا المشروع إلى بناء واجهة مستخدم نظيفة وحديثة مع التركيز على سهولة الاستخدام والكفاءة في إدارة العمليات المصرفية اليومية.
